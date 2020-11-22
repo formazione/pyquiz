@@ -1,0 +1,7 @@
+Does tourist spend the night in the location he visits?
+yes
+no
+
+Does the tourist travel for money?
+no
+yes
